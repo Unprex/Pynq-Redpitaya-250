@@ -1,9 +1,9 @@
 import re
 ####################################################
 fileIn = "tcl/base_bd.tcl" 
-fileOut = "../redpitaya-125-14/1.0/preset.xml"
+fileOut = "../redpitaya-250-12/1.0/preset.xml"
 lineStart = 210 #first line to parse
-lineStop = 616  #last line to parse
+lineStop = 626  #last line to parse
 ####################################################
 
 #Prepare file pointers
