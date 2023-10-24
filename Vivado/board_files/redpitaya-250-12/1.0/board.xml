@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> 
 <board schema_version="2.0"  vendor="redpitaya.com" name="redpitaya-250-12" display_name="Redpitaya-250-12" preset_file="preset.xml" >
  <file_version>1.0</file_version>
- <description>Redpitaya-125-14</description>
+ <description>Redpitaya-250-12</description>
  <components>
    <component name="part0" display_name="Redpitaya-250-12" type="fpga" part_name="xc7z020clg400-3" vendor="xilinx.com">
      <interfaces>
